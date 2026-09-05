@@ -1,0 +1,9 @@
+﻿# Local key file (do not commit)
+key.txt
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
