@@ -1,4 +1,4 @@
-﻿# Local key file (do not commit)
+# Local key file (do not commit)
 key.txt
 
 # OS / editor
@@ -7,3 +7,5 @@ Thumbs.db
 *.swp
 .idea/
 .vscode/
+*.exe
+# === auto: large files (>5MB) ===
