@@ -9,3 +9,5 @@ Thumbs.db
 .vscode/
 *.exe
 # === auto: large files (>5MB) ===
+
+# === commit-push-to-github large files (auto) ===
